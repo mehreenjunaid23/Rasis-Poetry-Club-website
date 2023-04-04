@@ -2,7 +2,6 @@
 This is a website project for a client who requested a platform where users can post poems with a description of genre and title, and interact with the website manager. The website also displays the most popular poems on the home page.
 
 # The project contains the following files and directories:
-
 <br>index.php: the home page of the website<br>
 about.php: a page that provides information about the website<br>
 contact.php: a page that allows users to contact the website manager<br>
