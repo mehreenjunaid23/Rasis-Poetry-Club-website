@@ -19,6 +19,11 @@ css: a directory containing the website's CSS files<br>
 js: a directory containing the website's JavaScript files<br>
 This project was developed using PHP and MySQL for the backend, and HTML, CSS, and JavaScript for the frontend.<br>
 
+# Authors
+Mehreen Junaid
+Hager Abas
+Joud Alfarra
+Leena Alam		
 
 
 
